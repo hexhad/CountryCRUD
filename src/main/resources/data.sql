@@ -1,1 +1,1 @@
-insert into cats values(101,'ipsum');
+insert into country values(101,'ipsum');
